@@ -9,4 +9,4 @@
   
     JDBC ，MySQL
     
-简介：大二时期整的web MIS系统，界面比较简陋因为是自己写的CSS，JS.....
+简介：web MIS系统(大二)，缺点：界面比较简陋（手写CSS，JS）
